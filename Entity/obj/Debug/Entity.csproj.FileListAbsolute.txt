@@ -1,0 +1,10 @@
+C:\Users\Gomez\source\repos\BancoCapas\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Gomez\source\repos\BancoCapas\Entity\bin\Debug\Entity.dll
+C:\Users\Gomez\source\repos\BancoCapas\Entity\bin\Debug\Entity.pdb
+C:\Users\Gomez\source\repos\BancoCapas\Entity\obj\Debug\Entity.dll
+C:\Users\Gomez\source\repos\BancoCapas\Entity\obj\Debug\Entity.pdb
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\Entity\bin\Debug\Entity.dll
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\Entity\bin\Debug\Entity.pdb
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\Entity\obj\Debug\Entity.csprojAssemblyReference.cache
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\Entity\obj\Debug\Entity.dll
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\Entity\obj\Debug\Entity.pdb

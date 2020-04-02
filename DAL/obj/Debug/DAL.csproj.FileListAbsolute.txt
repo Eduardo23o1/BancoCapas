@@ -1,0 +1,16 @@
+C:\Users\Gomez\source\repos\BancoCapas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Gomez\source\repos\BancoCapas\DAL\bin\Debug\DAL.dll
+C:\Users\Gomez\source\repos\BancoCapas\DAL\bin\Debug\DAL.pdb
+C:\Users\Gomez\source\repos\BancoCapas\DAL\bin\Debug\Entity.dll
+C:\Users\Gomez\source\repos\BancoCapas\DAL\bin\Debug\Entity.pdb
+C:\Users\Gomez\source\repos\BancoCapas\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Gomez\source\repos\BancoCapas\DAL\obj\Debug\DAL.dll
+C:\Users\Gomez\source\repos\BancoCapas\DAL\obj\Debug\DAL.pdb
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\bin\Debug\DAL.dll
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\bin\Debug\DAL.pdb
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\bin\Debug\Entity.dll
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\bin\Debug\Entity.pdb
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\obj\Debug\DAL.dll
+C:\Users\Eduardotapia\Source\Repos\BancoCapas\DAL\obj\Debug\DAL.pdb
